@@ -1,0 +1,15 @@
+{
+  "id": "com.azuracast.app",
+  "version": "1.0.0",
+  "vendor": "regg.ae",
+  "type": "web",
+  "main": "index.html",
+  "title": "azuracast",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "resolution": "1280x720",
+  "vendorExtension": {
+    "userAgent": "",
+    "allowCrossDomain": true
+  }
+}
